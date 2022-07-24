@@ -1,0 +1,140 @@
+.chooseHome{
+    font-size: 30px;
+    color: inherit;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px; 
+}
+
+.chooseStray{
+    font-size: 30px;
+    color: inherit;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;  
+}
+.chooseAbout{
+    font-size: 30px;
+    color: inherit;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;   
+}
+
+.chooseHome:hover{
+    text-decoration: underline;
+}
+.chooseStray:hover{
+    text-decoration: underline;
+}
+.chooseAbout:hover{
+    text-decoration: underline;
+}
+
+
+
+body{
+    background-color: #182045;
+}
+
+.choose{
+    background-color: white;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+.GamingLibrary{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    font-family: "Lato", sans-serif;
+}
+
+.Home{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.picture1{
+    text-align: center;
+    margin: 50px ;
+}
+
+.Straytitle{
+    font-size: 40px;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.picture2{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+.whatisStray{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+    font-family: "Lato", sans-serif;
+}
+
+.strayparagraph1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.watchthetrailer{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+    font-family: "Lato", sans-serif;
+    text-decoration: underline;
+}
+
+.strayvideo{
+    text-align:center;
+}
+
+.download{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+    font-family: "Lato", sans-serif;
+    text-decoration: underline;
+}
+
+.download2{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+}
+
+.downloadgame{
+    text-align: center;
+    margin: 50px;
+}
+
+.straythetitle{
+    text-align: center;
+    margin: 50px;
+}
+
+.About{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 100px;
+}
